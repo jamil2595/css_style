@@ -1,0 +1,39 @@
+#fixed{
+    position: fixed;
+    top:0;
+    left:0;
+    padding: 50px;
+    margin: 0;
+    text-align: center;
+    background: gray;
+}
+
+#general{
+    margin: 0 auto;
+    width: 500px;
+    padding: 20px;
+    
+}
+
+p{
+    font-size: 20px;
+}
+
+#relative{
+    position: relative;
+    width: 500px;
+    height:300px;
+    font-size: 30px;
+    text-align: center;
+    background-color: yellow;
+}
+
+#absolute{
+    position: absolute;
+    font-size: 30px;
+    text-align: center;
+    background-color: grey;
+    top:230px;
+    left: 350px;
+    width: 190px;
+}
